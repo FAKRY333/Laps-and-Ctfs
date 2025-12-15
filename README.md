@@ -166,7 +166,7 @@ Tools commonly used:
 
 ### installation 
 # I created a lap that can test the vulnerability in the connection control, and you can also modify it and make it secure.
-[Link Text](https://github.com/FAKRY333/Laps-and-Ctfs.git)
+[Download](https://github.com/FAKRY333/Laps-and-Ctfs.git)
 
 #After downloading, you must place the files on your internal server in a secure lab. There you will find the database file; import it.
 
