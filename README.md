@@ -165,9 +165,13 @@ Tools commonly used:
 ---
 
 ## installation 
-### I created a lap that can test the vulnerability in the connection control, and you can also modify it and make it secure.
+#### I created a lap that can test the vulnerability in the connection control, and you can also modify it and make it secure.
 
-### After downloading, you must place the files on your internal server in a secure lab. There you will find the database file; import it.
+
+* [Download](https://github.com/FAKRY333/Access_control_bugs/archive/refs/heads/main.zip)
+
+
+#### After downloading, you must place the files on your internal server in a secure lab. There you will find the database file; import it.
 
 
 
